@@ -1,0 +1,25 @@
+.input-wrapper {
+  position: relative;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.required-label {
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+  color: red;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.required-visible {
+  display: inline;
+  color: red;
+}
+
+.required-hidden {
+  display: none;
+}
